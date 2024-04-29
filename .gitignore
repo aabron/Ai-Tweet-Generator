@@ -6,3 +6,4 @@ Images/
 /backend/tgenerator/__pycache__
 /backend/tgenerator/migrations
 /venv
+/frontend/node_modules
