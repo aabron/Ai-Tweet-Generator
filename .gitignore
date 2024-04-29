@@ -1,0 +1,8 @@
+./node_modules
+backend/backend/settings.py
+backend/backend/db.sqlite3
+Images/
+/backend/backend/__pycache__
+/backend/tgenerator/__pycache__
+/backend/tgenerator/migrations
+/venv
