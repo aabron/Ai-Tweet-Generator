@@ -7,7 +7,7 @@ FINALLY BEFORE YOU READ, check out my github! : https://github.com/aabron
 
 there is a requirements.txt in the main directory with all pip requirements you need to create a virtual enviornment
 
-to install npm packages run npm install inside the "Tweet Generator" or base directory
+to install npm packages run npm install inside the "frontend" folder
 
 to install python packages(if manually) use the command python -r -m requirements.txt
 only do the above after creating a virtual environment
