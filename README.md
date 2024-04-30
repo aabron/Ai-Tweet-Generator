@@ -10,6 +10,7 @@ there is a requirements.txt in the main directory with all pip requirements you 
 to install npm packages run npm install inside the "frontend" folder
 
 to install python packages(if manually) use the command python -r -m requirements.txt
+
 only do the above after creating a virtual environment
 
 TO START DEVELOPMENT SERVER DJANGO:
